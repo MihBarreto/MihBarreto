@@ -1,4 +1,4 @@
- <h2>Oi!Eu sou a Michelle, mas pode chamar de Lyn. No momento, construindo um portifólio!</h2>
+ <h2>Oi!Eu sou a Michelle. No momento, editando portifólio!</h2>
 
 <div>
 <a href= "https://github.com/MihBarreto">

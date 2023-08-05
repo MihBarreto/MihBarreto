@@ -6,6 +6,17 @@
 Para além dos interesses em tecnologia, amo esports (oi, lolzeiros!!) e sou apaixonada por literatura. Podem contar comigo pra feedar na soloq ou chorar num sarau, estou sempre pronta. ♥
 <br/>
 <br/>
-  <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img  height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-  <br/><br/> 
+ <div style ="height:30; 
+        width: 40">
+      <img    height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /><img
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /><img
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"
+    /> 
+</div>
   
